@@ -1,5 +1,4 @@
 # 2019Beginners
 
 ### https://discord.gg/Mprjz6P
-
-#press the link above
+press the link above
